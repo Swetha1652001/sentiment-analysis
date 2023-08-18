@@ -1,2 +1,2 @@
 # sentiment-analysis
-Experimented with stock sentiment analysis using news headlines.
+## Experimented with stock sentiment analysis using news headlines.
